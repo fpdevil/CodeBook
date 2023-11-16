@@ -25,6 +25,7 @@ export const ProductDetails = () => {
         }
     }, [cartList, product.id]);
 
+    //eslint-disable-next-line
     function handleAdd(product) {
         addToCart(product);
     }
