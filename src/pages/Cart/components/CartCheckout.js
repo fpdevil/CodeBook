@@ -31,6 +31,7 @@ function cc_format(value) {
     return parts.length > 1 ? parts.join("-") : value;
 }
 
+// eslint-disable-next-line
 function dd_format(value) {
     let formattedStr = value
         .replace(/\D/g, "")
@@ -70,7 +71,9 @@ export const CartCheckout = ({ setCheckout }) => {
     };
 
     // state information for handling credit card expiry
+    // eslint-disable-next-line
     const [exp, setExp] = useState(null);
+    // eslint-disable-next-line
     const onExpChange = (e) => {
         setExp(e.target.value);
     };
