@@ -11,14 +11,14 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_400x400.jpg"
+                                            src="https://source.unsplash.com/cdP6ohOasfM"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Kanye West"
+                                            alt="Yoga Misha"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Kanye West</h3>
+                                            <h3 className="text-lg font-semibold">Yoga Misha</h3>
                                             <p className="text-gray-500 text-md">
-                                                Rapper &amp; Entrepreneur
+                                                Yoga Guru &amp; Entrepreneur
                                             </p>
                                         </div>
                                     </div>
@@ -33,13 +33,13 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1535420431766671360/Pwq-1eJc_400x400.jpg"
+                                            src="https://source.unsplash.com/bVBvv5xlX3g"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Tim Cook"
+                                            alt="Astronaut X"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Tim Cook</h3>
-                                            <p className="text-gray-500 text-md">CEO of Apple</p>
+                                            <h3 className="text-lg font-semibold">Astronaut X</h3>
+                                            <p className="text-gray-500 text-md">CEO of YSpace Inc.,</p>
                                         </div>
                                     </div>
                                     <p className="leading-normal text-md">
@@ -57,14 +57,14 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_400x400.jpg"
+                                            src="https://source.unsplash.com/cdP6ohOasfM"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Kanye West"
+                                            alt="Yoga Misha"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Kanye West</h3>
+                                            <h3 className="text-lg font-semibold">Yoga Misha</h3>
                                             <p className="text-gray-500 text-md">
-                                                Rapper &amp; Entrepreneur
+                                                Yoga Guru &amp; Entrepreneur
                                             </p>
                                         </div>
                                     </div>
@@ -79,13 +79,13 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1535420431766671360/Pwq-1eJc_400x400.jpg"
+                                            src="https://source.unsplash.com/bVBvv5xlX3g"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Tim Cook"
+                                            alt="Astronaut X"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Tim Cook</h3>
-                                            <p className="text-gray-500 text-md">CEO of Apple</p>
+                                            <h3 className="text-lg font-semibold">Astronaut X</h3>
+                                            <p className="text-gray-500 text-md">CEO of YSpace Inc.,</p>
                                         </div>
                                     </div>
                                     <p className="leading-normal text-md">
@@ -106,13 +106,13 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1375285353146327052/y6jeByyD_400x400.jpg"
+                                            src="https://source.unsplash.com/llDhTHTCQnQ"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Parag Agrawal"
+                                            alt="Blue Parrot"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Parag Agrawal</h3>
-                                            <p className="text-gray-500 text-md">CEO of Twitter</p>
+                                            <h3 className="text-lg font-semibold">Blue Parrot</h3>
+                                            <p className="text-gray-500 text-md">Wildlife Photographer</p>
                                         </div>
                                     </div>
                                     <p className="leading-normal text-md">
@@ -131,13 +131,13 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1535420431766671360/Pwq-1eJc_400x400.jpg"
+                                            src="https://source.unsplash.com/bVBvv5xlX3g"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Tim Cook"
+                                            alt="Astronaut X"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Tim Cook</h3>
-                                            <p className="text-gray-500 text-md">CEO of Apple</p>
+                                            <h3 className="text-lg font-semibold">Astronaut X</h3>
+                                            <p className="text-gray-500 text-md">CEO of YSpace Inc.,</p>
                                         </div>
                                     </div>
                                     <p className="leading-normal text-md">
@@ -155,13 +155,13 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1375285353146327052/y6jeByyD_400x400.jpg"
+                                            src="https://source.unsplash.com/llDhTHTCQnQ"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Parag Agrawal"
+                                            alt="Blue Parrot"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Parag Agrawal</h3>
-                                            <p className="text-gray-500 text-md">CEO of Twitter</p>
+                                            <h3 className="text-lg font-semibold">Blue Parrot</h3>
+                                            <p className="text-gray-500 text-md">Wildlife Photographer</p>
                                         </div>
                                     </div>
                                     <p className="leading-normal text-md">
@@ -180,13 +180,13 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1535420431766671360/Pwq-1eJc_400x400.jpg"
+                                            src="https://source.unsplash.com/bVBvv5xlX3g"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Tim Cook"
+                                            alt="Astronaut X"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Tim Cook</h3>
-                                            <p className="text-gray-500 text-md">CEO of Apple</p>
+                                            <h3 className="text-lg font-semibold">Astronaut X</h3>
+                                            <p className="text-gray-500 text-md">CEO of YSpace Inc.,</p>
                                         </div>
                                     </div>
                                     <p className="leading-normal text-md">
@@ -207,14 +207,14 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg"
+                                            src="https://source.unsplash.com/TVCDj_fFvx8"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Satya Nadella"
+                                            alt="Machine Guy"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Satya Nadella</h3>
+                                            <h3 className="text-lg font-semibold">Machine Guy</h3>
                                             <p className="text-gray-500 text-md">
-                                                CEO of Microsoft
+                                                CEO of OpenMachines
                                             </p>
                                         </div>
                                     </div>
@@ -234,13 +234,13 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/516916920482672641/3jCeLgFb_400x400.jpeg"
+                                            src="https://source.unsplash.com/BGz8vO3pK8k"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Dan Schulman"
+                                            alt="Beautiful Fairy"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Dan Schulman</h3>
-                                            <p className="text-gray-500 text-md">CEO of PayPal</p>
+                                            <h3 className="text-lg font-semibold">Beautiful Fairy</h3>
+                                            <p className="text-gray-500 text-md">CEO of BeautyBasket</p>
                                         </div>
                                     </div>
                                     <p className="leading-normal text-md">
@@ -257,14 +257,14 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/1221837516816306177/_Ld4un5A_400x400.jpg"
+                                            src="https://source.unsplash.com/TVCDj_fFvx8"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Satya Nadella"
+                                            alt="Machine Guy"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Satya Nadella</h3>
+                                            <h3 className="text-lg font-semibold">Machine Guy</h3>
                                             <p className="text-gray-500 text-md">
-                                                CEO of Microsoft
+                                                CEO of OpenMachines
                                             </p>
                                         </div>
                                     </div>
@@ -284,13 +284,13 @@ export const TestimonialCard = () => {
                                 <div className="relative p-6 space-y-6 leading-none bg-white rounded-lg ring-1 ring-gray-900/5 dark:bg-slate-800">
                                     <div className="flex items-center space-x-4">
                                         <img
-                                            src="https://pbs.twimg.com/profile_images/516916920482672641/3jCeLgFb_400x400.jpeg"
+                                            src="https://source.unsplash.com/BGz8vO3pK8k"
                                             className="w-12 h-12 bg-center bg-cover rounded-full border"
-                                            alt="Dan Schulman"
+                                            alt="Beautiful Fairy"
                                         />
                                         <div>
-                                            <h3 className="text-lg font-semibold">Dan Schulman</h3>
-                                            <p className="text-gray-500 text-md">CEO of PayPal</p>
+                                            <h3 className="text-lg font-semibold">Beautiful Fairy</h3>
+                                            <p className="text-gray-500 text-md">CEO of BeautyBasket</p>
                                         </div>
                                     </div>
                                     <p className="leading-normal text-md">
