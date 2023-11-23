@@ -29,7 +29,7 @@ export async function getProduct(id) {
 }
 
 export async function getFeaturedProductsList() {
-    const response = await fetch(`${process.env.REACT_APP_HOST}/444/feautured_products`);
+    const response = await fetch(`${process.env.REACT_APP_HOST}/444/featured_products`);
     if (!response.ok) {
         throw new CodeError(response.statusText, response.status);
         // throw {
