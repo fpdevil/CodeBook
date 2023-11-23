@@ -40,24 +40,24 @@ export const Header = () => {
             <nav className="bg-white dark:bg-gray-900">
                 <div className="flex flex-wrap justify-between items-center py-4 px-4 mx-auto max-w-screen-xl border-b-2 border-solid dark:border-b-0 border-slate-200 border-rounded">
                     <Link to="/" className="flex items-center">
-                        <img src={Logo} className="mr-2 h-10 sm:h-8" alt="CodeBook Logo" />
-                        <span className="self-center text-2xl font-medium whitespace-nowrap text-slate-500 dark:text-slate-300">
+                        <img src={Logo} className="mr-2 h-6 md:h-8" alt="CodeBook Logo" />
+                        <span className="self-center text-2xl font-medium whitespace-nowrap text-slate-600 dark:text-slate-300">
                             CodeBook
                         </span>
                     </Link>
-                    <div className="flex relative gap-4 items-center">
+                  <div className="flex relative gap-2 items-center md:gap-4">
                         <span
-                            className="text-2xl cursor-pointer text-slate-600 bi bi-gear-wide-connected dark:text-slate-300"
+                          className="text-xl cursor-pointer md:text-2xl text-slate-600 bi bi-gear-wide-connected dark:text-slate-300"
                             onClick={() => setDarkMode(!darkMode)}
                         ></span>
                         <span
-                            className="text-2xl cursor-pointer text-slate-600 bi bi-search dark:text-slate-300"
+                            className="text-xl cursor-pointer text-slate-600 bi bi-search dark:text-slate-300"
                             onClick={() => setShowSearch(!showSearch)}
                         ></span>
 
                         <Link to="/wishlist" className="text-slate-600 dark:text-slate-300">
                             <div className="relative">
-                                <i className="text-2xl bi bi-bag-heart"></i>
+                                <i className="text-xl md:text-2xl bi bi-bag-heart"></i>
                             </div>
                         </Link>
 
@@ -71,7 +71,7 @@ export const Header = () => {
 
                         <NavLink to="/cart" className="text-slate-600 dark:text-slate-300">
                             <div className="relative">
-                                <i className="text-2xl bi bi-cart3"></i>
+                                <i className="text-xl md:text-2xl bi bi-cart3"></i>
                                 {cartList.length > 0 && (
                                     <span className="flex absolute -top-1 -right-2 justify-center items-center w-5 h-4 text-xs text-white bg-pink-600 rounded-full animate-bounce">
                                         {cartList.length}
@@ -82,7 +82,7 @@ export const Header = () => {
 
                         <span
                             onClick={() => setDropDown(!dropDown)}
-                            className="text-2xl cursor-pointer text-slate-600 bi bi-person-circle dark:text-slate-300"
+                            className="text-xl cursor-pointer md:text-2xl text-slate-600 bi bi-person-circle dark:text-slate-300"
                         ></span>
                         {dropDown &&
                             (token ? (
