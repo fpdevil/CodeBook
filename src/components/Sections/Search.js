@@ -13,7 +13,7 @@ export const Search = ({setShowSearch}) => {
         // hide search bar after searching
         setShowSearch(false);
         // navigate to the filtered products
-        console.log(`navigating to /products?q=${searchRef.current.value}`);
+        // console.log(`navigating to /products?q=${searchRef.current.value}`);
         navigate(`/products?q=${searchRef.current.value}`);
     };
 
