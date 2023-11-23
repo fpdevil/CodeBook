@@ -169,6 +169,7 @@ export const CartCheckout = ({ setCheckout }) => {
                                         </label>
                                         <input
                                             className="justify-center items-center py-2 px-3 w-full text-sm tracking-widest leading-5 bg-white rounded border shadow-md hover:border-violet-300 focus:border-indigo-300 focus:ring-0 placeholder-slate-400 text-slate-800 border-slate-200"
+                                            id="card-nr"
                                             maxLength="19"
                                             placeholder="9999-9999-9999-9999"
                                             value={cc_format(val)}
