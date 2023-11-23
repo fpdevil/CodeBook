@@ -29,7 +29,7 @@ export const ProductCard = ({ product }) => {
     }
 
     return (
-        <div className="justify-center px-4 max-w-sm transition duration-300 ease-in sm:px-8 dark:bg-gray-800 dark:border-gray-700 hover:scale-105">
+        <div className="justify-center px-4 max-w-sm transition duration-300 ease-in scale-90 sm:px-8 dark:bg-gray-800 dark:border-gray-700 hover:scale-95">
             <article className="flex overflow-hidden flex-col my-4 mx-auto w-full text-gray-900 bg-white rounded-lg border border-gray-300 transition hover:shadow-lg dark:border-slate-600 dark:bg-slate-800">
                 <Link to={`/products/${id}`} className="relative">
                     {best_seller && (
