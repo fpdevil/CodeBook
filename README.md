@@ -2,6 +2,17 @@
 
 It is bootstrapped using the `create-react-app` template and developed with *UI* customizations done in `TailwindCSS`. The backend is a mock service developed and hosted on _render_.
 
+## Demo sites
+The site is deployed on `netlify` and is available for demonstration online at the below url:
+
+- https://ecodebook.netlify.app
+
+The backend service handling the user authentication and registration is deployed on _render_ and is available online at the below url:
+
+- https://codebook-mock-server-qgk1.onrender.com
+
+The corresponding code for backend is available at https://github.com/fpdevil/codebook-server
+
 ## Available Scripts
 
 In the project directory, you can run:
