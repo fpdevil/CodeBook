@@ -58,7 +58,7 @@ export const Faq = () => {
         <section className="flex justify-center items-center my-4 rounded-md border shadow-md dark:border-slate-600 dark:bg-slate-800">
             <div className="p-4 my-4 w-full">
                 <h1 className="mb-10 font-serif text-2xl font-medium text-center underline underline-offset-8 text-slate-500 dark:text-gray-100/75">
-                    Frequently Asked Questions
+                    Have Questions?
                 </h1>
 
                 {/* begin accordian items */}
