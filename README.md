@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Ecom App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is bootstrapped using the `create-react-app` template and developed with *UI* customizations done in `TailwindCSS`. The backend is a mock service developed and hosted on _render_.
 
 ## Available Scripts
 
