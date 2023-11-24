@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
+import React, { useState } from 'react';
 
 export const Accordian = ({ id, question, answer }) => {
     const [active, setActive] = useState(false);
@@ -29,16 +29,15 @@ export const Accordian = ({ id, question, answer }) => {
                     />
                 </svg>
             </button>
-            <AnimatePresence>
+            <AnimatePresence initial={false}>
                 {active && (
                     <motion.div
-                        key={id}
                         initial={{ opacity: 0, height: 0 }}
                         animate={{ opacity: 1, height: 'auto' }}
                         exit={{ opacity: 0, height: 0 }}
-                        className="pt-4 pb-2 mx-4 font-serif font-medium tracking-wider last:pb-0 text-md text-slate-600 dark:text-slate-300"
+                        transition={{ type: "spring", duration: 0.4, bounce: 0 }}
                     >
-                        {answer}
+                        <div className="pt-4 pb-2 mx-4 font-serif font-medium tracking-wider last:pb-0 text-md text-slate-600 dark:text-slate-300">{answer}</div>
                     </motion.div>
                 )}
             </AnimatePresence>
